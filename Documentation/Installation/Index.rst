@@ -17,6 +17,9 @@ Setup
 
 If installed and activated just include the **static typoscript** to your site template and you're good to go.
 
+To include the static typoscript go to listview / template / maintemplate / include then choose content animation.
+If database error, then goto Maintaince and Analyze Database Structure and analyze database.
+
 .. note::
 
   You have to choose between these static includes from ``content_animations``.
